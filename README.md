@@ -6,9 +6,7 @@ This is the front-end component of the Parking Tracker Project. This project all
 
 Built with:
 
-[<img src="./readmeAssets/react.png" width=20>](https://react.dev)
-
-[<img src="./readmeAssets/mui.png" width=20>](https://mui.com/)
+[<img src="./readmeAssets/react.png" width=20>](https://react.dev) [<img src="./readmeAssets/mui.png" width=20>](https://mui.com/)
 
 ## Get Started
 
